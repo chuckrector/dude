@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+dude-win32-x64
+dude_install.exe
+dude.zip
+dude.7z
